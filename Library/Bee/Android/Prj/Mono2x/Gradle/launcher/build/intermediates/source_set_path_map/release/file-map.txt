@@ -1,0 +1,11 @@
+com.DefaultCompany.ARZombie.launcher-jetified-core-1.36.0-0 C:\Users\uraxa\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\res
+com.DefaultCompany.ARZombie.launcher-jetified-VuforiaEngine-1 C:\Users\uraxa\.gradle\caches\transforms-3\eb10837eba75ce62ce08bf9f456f9973\transformed\jetified-VuforiaEngine\res
+com.DefaultCompany.ARZombie.launcher-pngs-2 C:\Users\uraxa\Documents\ARZombie\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.ARZombie.launcher-resValues-3 C:\Users\uraxa\Documents\ARZombie\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.ARZombie.launcher-rs-4 C:\Users\uraxa\Documents\ARZombie\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.ARZombie.launcher-mergeReleaseResources-5 C:\Users\uraxa\Documents\ARZombie\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.ARZombie.launcher-mergeReleaseResources-6 C:\Users\uraxa\Documents\ARZombie\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.ARZombie.launcher-merged_res-7 C:\Users\uraxa\Documents\ARZombie\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.ARZombie.launcher-main-8 C:\Users\uraxa\Documents\ARZombie\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.DefaultCompany.ARZombie.launcher-release-9 C:\Users\uraxa\Documents\ARZombie\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.DefaultCompany.ARZombie.launcher-packaged_res-10 C:\Users\uraxa\Documents\ARZombie\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release
